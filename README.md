@@ -1,4 +1,4 @@
-![logo](https://github.com/vineetshrma7/vineetshrma7/blob/main/Github%20Banner.png)
+![logo](https://github.com/vineetshrma7/vineetshrma7/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Vineet Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
