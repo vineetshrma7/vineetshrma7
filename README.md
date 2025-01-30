@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CURD Operation**
 
-- 🌱 I’m currently learning **ASP.NET, C#**
+- 🌱 I’m currently learning **ASP.NET, C#, JavaScript, React**
 
 - 📫 How to reach me **vineetshrma7@gmail.com**
 
